@@ -708,17 +708,120 @@ int main(void){
 
 </details>
 
+---
+
+## Pattern 18
+
+```c
+     * 
+    * * 
+   * * * 
+  * * * * 
+ * * * * * 
+  * * * * 
+   * * * 
+    * * 
+     * 
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern 18 </summary>
+
+```c
+#include <stdio.h>
+
+int main(void) {
+
+    int i, j, k, n = 4;
+
+    for(i = -n; i <= n; i++) {
+        if(i < 0)
+            k = -i;else 
+            k = i;
+        for(j = 0; j < k + 1; j++)
+            printf(" ");
+        
+        for(j = 0; j <= n - k; j++)
+            printf("* ");
+        
+        printf("\n");
+    }
+}
+```
+</details>
+
+---
+
+## Pattern 19
+
+
+```c
+
+* * * * * * * 
+* *       * * 
+*   *   *   * 
+*     *     * 
+*   *   *   * 
+* *       * * 
+* * * * * * *
+```
+
+<details>
+
+<summary> 👉 Click to view the Code of Pattern 19 </summary>
+
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int i, j, n=7;
+    for(i=0;i<n;i++){
+        for(j=0;j<n;j++){
+            if(i==0||i==n-1||j==0||j==n-1||i==j||n==i+j+1)
+                printf("* ");else
+                printf("  ");
+        }
+        printf("\n");
+    }
+}
+```
+
+</details>
+
+---
 
 
 
 
+## Pattern 20
 
+```c
+1 
+2 * 
+3 * 9 
+4 * 12 * 
+5 * 15 * 25 
+6 * 18 * 30 * 
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern 20 </summary>
 
+```c
+#include <stdio.h>
 
-
-
-
-
+int main(void) {
+    int i,j,k,n=5;
+    for(i=0;i<=n;i++){
+        for(j=0;j<=i;j++){
+            if(j%2==0)
+            printf("%d ",(i+1)*(j+1));else
+            printf("* ");
+        }
+        printf("\n");
+    }
+}
+```
+</details>
 
 
 
