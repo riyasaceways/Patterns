@@ -823,7 +823,20 @@ int main(void) {
 ```
 </details>
 
+---
 
+## Pattern 
+
+```c
+
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+```c
+
+```
+</details>
 
 ---
 
