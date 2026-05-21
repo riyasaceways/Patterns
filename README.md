@@ -14,7 +14,7 @@ Patterns with code
 
 4|0  4|1  4|2  4|3  4|4
 ```
-<p>This Grid pattern to understand the cound of p</p>
+<p>This Grid pattern to understand the cound of grid of </p>
 
 <details>
 
@@ -98,6 +98,8 @@ int main(void){
 ```
 </details>
 
+---
+
 ## Pattern 4
 
 ```c
@@ -130,10 +132,7 @@ int main(void){
 ```
 </details>
 
-
-
-
-
+---
 
 ## Pattern 5
 
@@ -177,11 +176,53 @@ int main(void){
 ```
 </details>
 
-
-
-
+---
 
 ## Pattern 6
+
+```c
+* * * 
+* * * 
+*
+* * * * * * 
+* * * * * * 
+*
+*
+* * * * * * * * * 
+* * * * * * * * * 
+```
+---
+
+<details>
+<summary> 👆Click to view the Code of Pattern 6 </summary>
+
+```c
+#include<stdio.h>
+
+int main(void){
+int i,j,k,n=3;
+    for(i=1;i<=n;i++){
+        for(j=0;j<2;j++){
+            for(k=0;k<3*i;k++){
+                printf("* ");
+            }
+            printf("\n");
+        }
+        if(i==n){
+            break;
+        }
+        for(j=0;j<i;j++){
+            printf("*\n");
+        }
+    }
+
+}
+```
+---
+
+</details>
+
+## Pattern 7
 
 ```c
       *
@@ -192,7 +233,8 @@ int main(void){
  ***********
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern 6 </summary>
+<summary> 👆Click to view the Code of Pattern 7 </summary>
+---
 
 ```c
 #include<stdio.h>
@@ -217,13 +259,101 @@ int main(void){
 ```
 </details>
 
+---
+## Pattern 8
+
+```c
+1 
+1 2 
+1   3 
+1     4 
+1 2 3 4 5 
+```
+<details>
+<summary> 👆Click to view the Code of Pattern 8 </summary>
+
+```c
+#include<stdio.h>
+
+int main(void){
+    int i,j,n=5;
+    for(i=1;i<=n;i++){
+        for(j=1;j<=i;j++){
+            if(j==1||j==i||i==n){
+                printf("%d ",j);
+            }
+            else{
+                printf("  ");
+            }
+        }
+        printf("\n");
+    }
+
+}
+```
+</details>
+
+---
+## Pattern 9
+
+```c
+          1 
+        1 2 3 
+      1 2 3 4 5 
+    1 2 3 4 5 6 7 
+  1 2 3 4 5 6 7 8 9 
+    1 2 3 4 5 6 7 
+      1 2 3 4 5 
+        1 2 3 
+          1 
+```
+<details>
+<summary> 👆Click to view the Code of Pattern 9 </summary>
+
+```c
+#include<stdio.h>
+
+int main(void){
+    int i,j,k,n=4,f;
+    for(i=-n;i<=n;i++){
+        if(i<0){
+        k=-i;
+        }
+        else{
+            k=i;
+        }
+        for(j=0;j<k+1;j++){
+            printf("  ");
+        }
+        for(j=0,f=1;j<(n-k)*2+1;f++,j++){
+            printf("%d ",f);
+        }
+        printf("\n");
+    }
+}
+```
+</details>
+
+---
+
+## Pattern 
+
+```c
+
+```
+<details>
+<summary> 👆Click to view the Code of Pattern  </summary>
+
+```c
+
+```
+</details>
 
 
 
 
 
 ---
-
 
 [//]: # ()
 [//]: # (## Pattern )
