@@ -336,16 +336,43 @@ int main(void){
 
 ---
 
-## Pattern 
+## Pattern 10
 
 ```c
-
+ * * * * * 
+  * * * * 
+   * * * 
+    * * 
+     * 
+    * * 
+   * * * 
+  * * * * 
+ * * * * * 
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern  </summary>
+<summary> 👆Click to view the Code of Pattern 10 </summary>
 
 ```c
+#include<stdio.h>
 
+int main(void){
+    int i,j,f,n=4;
+    for(i=-n;i<=n;i++){
+        if(i<0){
+            f=-i;
+        }
+        else{
+            f=i;
+        }
+        for(j=0;j<n+1-f;j++){
+            printf(" ");
+        }
+        for(j=0;j<f+1;j++){
+            printf("* ");
+        }
+        printf("\n");
+    }
+}
 ```
 </details>
 
