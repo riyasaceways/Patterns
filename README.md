@@ -181,8 +181,48 @@ int main(void){
 
 
 
+## Pattern 6
+
+```c
+      *
+     * *
+    *   *
+   *     *
+  *       *
+ ***********
+```
+<details>
+<summary> 👆Click to view the Code of Pattern 6 </summary>
+
+```c
+#include<stdio.h>
+
+int main(void){
+    int i,j,k,n=6;
+    for(i=0;i<n;i++){
+        for(k=0;k<n-i;k++){
+        printf(" ");
+        }
+        for(j=0;j<2*i+1;j++){
+            if(j==0||j==2*i||i==n-1){
+                printf("*");
+            }
+            else{
+                printf(" ");
+            }
+        }
+        printf("\n");
+    }
+}
+```
+</details>
 
 
+
+
+
+
+---
 
 
 [//]: # ()
@@ -205,3 +245,6 @@ int main(void){
 [//]: # (```)
 
 [//]: # (</details>)
+
+
+---
