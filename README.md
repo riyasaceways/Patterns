@@ -850,20 +850,81 @@ int main(void) {
 
 ---
 
-## Pattern 
+## Pattern 21
 
 ```c
-
+1 2 3 4 5 4 3 2 1 
+1 2 3 4 3 2 1 
+1 2 3 2 1 
+1 2 1 
+1 
 ```
 <details>
 <summary> 👉 Click to view the Code of Pattern  </summary>
 
 ```c
+#include <stdio.h>
 
+int main(void) {
+    int i,j,n=5;
+    for(i=n;i>0;i--){
+        for(j=1;j<=i;j++){
+            printf("%d ",j);
+        }
+        for(j=i-1;j>0;j--){
+            printf("%d ",j);
+        }
+        printf("\n");
+    }
+}
 ```
 </details>
 
 ---
+
+## Pattern 
+
+```c
+*
+* * 
+*
+*
+*
+* * * * 
+*
+*
+*
+*
+*
+* * * * * * 
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+```c
+#include <stdio.h>
+
+int main(void) {
+int i,j,n=3;
+    for(i=1;i<=n;i++){
+        for(j=0;j<i*2-1;j++){
+            printf("*\n");
+        }
+        for(j=0;j<i*2;j++){
+            printf("* ");
+        }
+        printf("\n");
+    }
+}
+```
+</details>
+
+
+
+
+
+
+
 
 [//]: # ()
 [//]: # (## Pattern )
@@ -886,4 +947,3 @@ int main(void) {
 
 [//]: # (</details>)
 
----
