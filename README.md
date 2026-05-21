@@ -671,7 +671,7 @@ int main(void){
 ---
 
 
-## Pattern 
+## Pattern 17
 
 
 ```c
@@ -686,7 +686,7 @@ int main(void){
 
 <details>
 
-<summary> 👉 Click to view the Code of Pattern  </summary>
+<summary> 👉 Click to view the Code of Pattern 17 </summary>
 
 
 ```c
