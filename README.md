@@ -18,7 +18,7 @@ Patterns with code
 
 <details>
 
-<summary> 👆Click to view the Code of Pattern 1 </summary>
+<summary> 👉 Click to view the Code of Pattern 1 </summary>
 
 ```c
 #include<stdio.h>
@@ -46,7 +46,7 @@ int main(void){
 ```
 
 <details>
-<summary> 👆Click to view the Code of Pattern 2 </summary>
+<summary> 👉 Click to view the Code of Pattern 2 </summary>
 
 ```c
 #include<stdio.h>
@@ -75,7 +75,7 @@ int main(void){
 *       * 
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern 3 </summary>
+<summary> 👉 Click to view the Code of Pattern 3 </summary>
 
 ```c
 #include<stdio.h>
@@ -110,7 +110,7 @@ int main(void){
 * * * * * 
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern 4 </summary>
+<summary> 👉 Click to view the Code of Pattern 4 </summary>
 
 ```c
 #include<stdio.h>
@@ -151,7 +151,7 @@ int main(void){
 * * * * * * 
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern 5 </summary>
+<summary> 👉 Click to view the Code of Pattern 5 </summary>
 
 ```c
 #include<stdio.h>
@@ -194,7 +194,7 @@ int main(void){
 ---
 
 <details>
-<summary> 👆Click to view the Code of Pattern 6 </summary>
+<summary> 👉 Click to view the Code of Pattern 6 </summary>
 
 ```c
 #include<stdio.h>
@@ -233,7 +233,7 @@ int i,j,k,n=3;
  ***********
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern 7 </summary>
+<summary> 👉 Click to view the Code of Pattern 7 </summary>
 ---
 
 ```c
@@ -270,7 +270,7 @@ int main(void){
 1 2 3 4 5 
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern 8 </summary>
+<summary> 👉 Click to view the Code of Pattern 8 </summary>
 
 ```c
 #include<stdio.h>
@@ -308,7 +308,7 @@ int main(void){
           1 
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern 9 </summary>
+<summary> 👉 Click to view the Code of Pattern 9 </summary>
 
 ```c
 #include<stdio.h>
@@ -350,7 +350,7 @@ int main(void){
  * * * * * 
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern 10 </summary>
+<summary> 👉 Click to view the Code of Pattern 10 </summary>
 
 ```c
 #include<stdio.h>
@@ -391,7 +391,7 @@ int main(void){
 * * * * * * * * * * * * * * 
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern 11 </summary>
+<summary> 👉 Click to view the Code of Pattern 11 </summary>
 
 ```c
 #include<stdio.h>
@@ -441,7 +441,7 @@ int main(void){
 1        1 
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern 12 </summary>
+<summary> 👉 Click to view the Code of Pattern 12 </summary>
 
 ```c
 #include<stdio.h>
@@ -495,7 +495,7 @@ int main(void){
 ```
 
 <details>
-<summary> 👆Click to view the Code of Pattern 13</summary>
+<summary> 👉 Click to view the Code of Pattern 13</summary>
 
 #### Pattern 13 (Method 1)
 
@@ -570,7 +570,20 @@ int main(void) {
 
 </details>
 
+---
 
+## Pattern 
+
+```c
+
+```
+<details>
+<summary> 👆Click to view the Code of Pattern  </summary>
+
+```c
+
+```
+</details>
 
 
 ---
