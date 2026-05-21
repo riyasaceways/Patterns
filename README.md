@@ -495,7 +495,7 @@ int main(void){
 ```
 
 <details>
-<summary> 👆Click to view the Code of Pattern 13 (Method 1)</summary>
+<summary> 👆Click to view the Code of Pattern 13</summary>
 
 #### Pattern 13 (Method 1)
 
