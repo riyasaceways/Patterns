@@ -376,6 +376,197 @@ int main(void){
 ```
 </details>
 
+---
+
+
+## Pattern 11
+
+```c
+*                         * 
+                          
+* * *                 * * * 
+                        
+* * * * *         * * * * * 
+                      
+* * * * * * * * * * * * * * 
+```
+<details>
+<summary> 👆Click to view the Code of Pattern 11 </summary>
+
+```c
+#include<stdio.h>
+
+int main(void){
+    int i,j,n=8;
+    for(i=1;i<n;i++){
+        for(j=0;j<i;j++){
+            if(i%2!=0){
+                printf("* ");
+            }
+            else{
+                printf("  ");
+            }
+        }
+        for(j=i;j<n-1;j++){
+            printf("    ");
+        }
+        for(j=0;j<i;j++){
+            if(i%2!=0){
+                printf("* ");
+            }
+            else{
+                printf(" ");
+            }
+        }
+        printf("\n");
+    }
+}
+```
+</details>
+
+---
+
+
+## Pattern 12
+
+```c
+1        1 
+ 2      2  
+  3    3   
+   4  4    
+    5     
+   4  4    
+  3    3   
+ 2      2  
+1        1 
+```
+<details>
+<summary> 👆Click to view the Code of Pattern 12 </summary>
+
+```c
+#include<stdio.h>
+
+int main(void){
+    int i,j,n=9;
+    for(i=0;i<n;i++){
+        for(j=0;j<n;j++){
+            if(i==j||n==i+j+1){
+                if(i==j){
+                    if(i<n/2){
+                        printf("%d ",i+1);
+                    }
+                    else{
+                        printf("%d ",n-i);
+                    }
+                }
+                else if(n==i+j+1){
+                    if(i<n/2){
+                        printf("%d ",i+1);
+                    }
+                    else{
+                        printf("%d ",j+1);
+                    }
+                }
+            }
+            else{
+                printf(" ");
+            }
+        }
+        printf("\n");
+    }
+}
+```
+</details>
+
+---
+
+## Pattern 13
+
+```c
+    *
+   * *
+  *   *
+ *     *
+*       *
+ *     *
+  *   *
+   * *
+    *
+```
+
+<details>
+<summary> 👆Click to view the Code of Pattern 13 </summary>
+
+```c
+
+#include <stdio.h>
+int main(void){
+    int i,j,k,n=5,star=1,space=n-1;
+    for(i=1;i<=2*n;i++){
+        for(j=1;j<=space;j++){
+            printf(" ");
+        }
+        for(k=1;k<=2*star-1;k++){
+            if(k==1||k==2*star-1){
+            printf("*");
+            }
+            else{
+            printf(" ");
+            }
+        }
+        if(i<n){
+            star++;
+            space--;
+        }
+        else{
+            star--;
+            space++;
+        }
+        printf("\n");
+    }
+}
+```
+
+## Or
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int rows = 5;
+    int spaces;
+
+    for (int i = 1; i <= rows; i++) {
+        for (spaces = 1; spaces <= rows - i; spaces++) {
+            printf(" ");
+        }
+        printf("*");
+        if (i != 1) {
+            for (spaces = 1; spaces <= (2 * i - 3); spaces++) {
+                printf(" ");
+            }
+            printf("*");
+        }
+
+        printf("\n");
+    }
+    for (int i = rows - 1; i >= 1; i--) {
+        for (spaces = 1; spaces <= rows - i; spaces++) {
+            printf(" ");
+        }
+        printf("*");
+        if (i != 1) {
+            for (spaces = 1; spaces <= (2 * i - 3); spaces++) {
+                printf(" ");
+            }
+            printf("*");
+        }
+        printf("\n");
+    }
+}
+```
+
+</details>
 
 
 
