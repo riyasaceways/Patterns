@@ -495,7 +495,9 @@ int main(void){
 ```
 
 <details>
-<summary> 👆Click to view the Code of Pattern 13 </summary>
+<summary> 👆Click to view the Code of Pattern 13 (Method 1)</summary>
+
+#### Pattern 13 (Method 1)
 
 ```c
 
@@ -528,7 +530,7 @@ int main(void){
 ```
 
 ## Or
-
+#### Pattern 13 (Method 2)
 ```c
 #include <stdio.h>
 
