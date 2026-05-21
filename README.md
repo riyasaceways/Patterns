@@ -572,18 +572,154 @@ int main(void) {
 
 ---
 
-## Pattern 
+## Pattern 14
 
 ```c
-
+1 1 1 1 1 1 
+1 1 1 1 2 2 
+1 1 1 3 3 3 
+1 1 4 4 4 4 
+1 5 5 5 5 5 
+6 6 6 6 6 6 
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern  </summary>
+<summary> 👉 Click to view the Code of Pattern 14 </summary>
+
+```c
+#include <stdio.h>
+int main(void){
+    int i,j,n=6;
+    for(i=1;i<=n;i++){
+        for(j=0;j<n-i;j++){
+            printf("1 ");
+        }
+        for(j=0;j<i;j++){
+            printf("%d ",i);
+        }
+        printf("\n");
+    }
+}
+```
+</details>
+
+---
+
+## Pattern 15
+
+```c
+A 
+1 1 
+B B B 
+2 2 2 2 
+C C C C C 
+3 3 3 3 3 3 
+D D D D D D D 
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern 15 </summary>
+
+```c
+#include <stdio.h>
+int main(void){
+    int i,j,n=7;
+    for(i=1;i<=n;i++){
+        for(j=0;j<i;j++){
+            if(i%2!=0){
+                printf("%c ",65+i/2);
+            }
+            else{
+                printf("%d ",i/2);
+            }
+        }
+        printf("\n");
+    }
+}
+```
+</details>
+
+---
+
+## Pattern 16
+
+```c
+ 1 2 3 4 5 
+  2 4 6 8 
+   3 6 9 
+    4 8 
+     5 
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern 16 </summary>
+
+```c
+#include <stdio.h>
+int main(void){
+    int i,j,n=6;
+    for(i=1;i<=n;i++){
+        for(j=0;j<i;j++){
+            printf(" ");
+        }
+        for(j=1;j<=n-i;j++){
+            printf("%d ",i*j);
+        }
+        printf("\n");
+    }
+}
+```
+</details>
+
+---
+
+
+## Pattern 
+
 
 ```c
 
+1 1 
+1 2 2 1 
+1 2 3 3 2 1 
+1 2 3 4 4 3 2 1 
+1 2 3 4 5 5 4 3 2 1 
+1 2 3 4 5 6 6 5 4 3 2 1 
 ```
+
+<details>
+
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+
+```c
+
+#include <stdio.h>
+int main(void){
+    int i,j,n=6;
+    for(i=1;i<=n;i++){
+        for(j=1;j<=i;j++){
+            printf("%d ",j);
+        }
+        for(j=i;j>0;j--){
+            printf("%d ",j);
+        }
+        printf("\n");
+    }
+}
+```
+
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
@@ -599,7 +735,7 @@ int main(void) {
 
 [//]: # (<details>)
 
-[//]: # (<summary> 👆Click to view the Code of Pattern  </summary>)
+[//]: # (<summary> 👉 Click to view the Code of Pattern  </summary>)
 
 [//]: # ()
 [//]: # (```c)
@@ -608,6 +744,5 @@ int main(void) {
 [//]: # (```)
 
 [//]: # (</details>)
-
 
 ---
