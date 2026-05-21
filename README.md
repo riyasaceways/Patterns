@@ -73,13 +73,13 @@ int main(void){
 *       * 
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern  </summary>
+<summary> 👆Click to view the Code of Pattern 3 </summary>
 
 ```c
 #include<stdio.h>
 
 int main(void){
-    int i,j,k,n=5;
+    int i,j,n=5;
     for(i=0;i<n;i++){
         for(j=0;j<n;j++){
             if(j==0||j==n-1||i==j){
@@ -96,26 +96,68 @@ int main(void){
 ```
 </details>
 
-
-
-
-
-
-
-
-
-
-
-
-## Pattern 
+## Pattern 4
 
 ```c
-
+* * * * * 
+      *   
+    *     
+  *       
+* * * * * 
 ```
 <details>
-<summary> 👆Click to view the Code of Pattern  </summary>
+<summary> 👆Click to view the Code of Pattern 4 </summary>
 
 ```c
+#include<stdio.h>
 
+int main(void){
+    int i,j,n=5;
+    for(i=0;i<n;i++){
+        for(j=0;j<n;j++){
+                if(i==0||i==n-1||n==i+j+1){
+                printf("* ");
+            }
+            else{
+                printf("  ");
+            }
+        }
+        printf("\n");
+    }
+}
 ```
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[//]: # ()
+[//]: # (## Pattern )
+
+[//]: # ()
+[//]: # (```c)
+
+[//]: # ()
+[//]: # (```)
+
+[//]: # (<details>)
+
+[//]: # (<summary> 👆Click to view the Code of Pattern  </summary>)
+
+[//]: # ()
+[//]: # (```c)
+
+[//]: # ()
+[//]: # (```)
+
+[//]: # (</details>)
