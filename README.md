@@ -3,7 +3,7 @@ Patterns with code
 
 ## Pattern 1
 
-```declarative
+```c
 0|0  0|1  0|2  0|3  0|4
 
 1|0  1|1  1|2  1|3  1|4
@@ -36,7 +36,7 @@ int main(void){
 
 ---
 ## Pattern 2
-```declarative
+```c
 50 
 45 40 
 35 30 25 
