@@ -14,8 +14,10 @@ Patterns with code
 
 4|0  4|1  4|2  4|3  4|4
 ```
+<p>This Grid pattern to understand the cound of p</p>
 
 <details>
+
 <summary> 👆Click to view the Code of Pattern 1 </summary>
 
 ```c
@@ -132,6 +134,48 @@ int main(void){
 
 
 
+
+## Pattern 5
+
+```c
+* * 
+*
+*
+*
+* * * * 
+* * * * 
+*
+*
+*
+* * * * * * 
+* * * * * * 
+* * * * * * 
+```
+<details>
+<summary> 👆Click to view the Code of Pattern 5 </summary>
+
+```c
+#include<stdio.h>
+
+int main(void){
+    int i,j,k,n=3;
+    for(i=1;i<=n;i++){
+        for(k=0;k<i;k++){
+            for(j=0;j<2*i;j++){
+                printf("* ");
+            }
+            printf("\n");
+        }
+        if(i==n){
+            break;
+        }
+        for(k=0;k<3;k++){
+            printf("*\n");
+        }
+    }
+}
+```
+</details>
 
 
 
