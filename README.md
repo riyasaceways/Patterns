@@ -37,8 +37,7 @@ Patterns with code
 
 ---
 
-## Pattern 1 
-<p align="right"> [🔝 Back to Index](#index) </p>
+## Pattern 1 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 0|0  0|1  0|2  0|3  0|4
@@ -373,9 +372,11 @@ int main(void){
 
 ---
 
-## Pattern 10 
+## Pattern 10 <p align="right"><a href="#index">🔝 Back to Index</a></p>
 
-<p align="right"> [🔝 Back to Index](#index) </p>
+
+
+
 
 ```c
  * * * * * 
