@@ -23,6 +23,17 @@ Patterns with code
 - [Pattern 18 - Diamond Star Pattern](#pattern-18)
 - [Pattern 19 - X Box Pattern](#pattern-19)
 - [Pattern 20 - Mixed Number Pattern](#pattern-20)
+- [Pattern 21 - Reverse Mirror Numbers](#pattern-21)
+- [Pattern 22 - Vertical Star Blocks](#pattern-22)
+- [Pattern 23 - Triple Star Pattern](#pattern-23)
+- [Pattern 24 - Binary Reverse Triangle](#pattern-24)
+- [Pattern 25 - Palindrome Number Pyramid](#pattern-25)
+- [Pattern 26 - Number and Star Mirror](#pattern-26)
+- [Pattern 27 - Reverse Number and Star Mirror](#pattern-27)
+- [Pattern 28 - Odd Number Triangle](#pattern-28)
+- [Pattern 29 - Reverse Star Ladder](#pattern-29)
+- [Pattern 30 - Expanding Star Blocks](#pattern-30)
+- [Pattern 31 - Multiplication Series Pattern](#pattern-31)
 
 ---
 
