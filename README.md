@@ -3,17 +3,17 @@ Patterns with code
 
 ## Index
 
-- [Pattern 1 - Grid Pattern](#pattern-1)
-- [Pattern 2 - Number Triangle](#pattern-2)
-- [Pattern 3 - Diagonal Box](#pattern-3)
-- [Pattern 4 - Z Pattern](#pattern-4)
-- [Pattern 5 - Growing Blocks](#pattern-5)
-- [Pattern 6 - Expanding Lines](#pattern-6)
-- [Pattern 7 - Hollow Pyramid](#pattern-7)
-- [Pattern 8 - Hollow Number Triangle](#pattern-8)
-- [Pattern 9 - Number Diamond](#pattern-9)
-- [Pattern 10 - Left Arrow Pattern](#pattern-10)
-- [Pattern 11 - Double Pyramid](#pattern-11)
+- [Pattern 1 - Grid Pattern](##pattern-1)
+- [Pattern 2 - Number Triangle](##pattern-2)
+- [Pattern 3 - Diagonal Box](##pattern-3)
+- [Pattern 4 - Z Pattern](##pattern-4)
+- [Pattern 5 - Growing Blocks](##pattern-5)
+- [Pattern 6 - Expanding Lines](##pattern-6)
+- [Pattern 7 - Hollow Pyramid](##pattern-7)
+- [Pattern 8 - Hollow Number Triangle](##pattern-8)
+- [Pattern 9 - Number Diamond](##pattern-9)
+- [Pattern 10 - Left Arrow Pattern](##pattern-10)
+- [Pattern 11 - Double Pyramid](##pattern-11)
 - [Pattern 12 - X Number Pattern](#pattern-12)
 - [Pattern 13 - Hollow Diamond](#pattern-13)
 - [Pattern 14 - Number Block Pattern](#pattern-14)
@@ -372,7 +372,7 @@ int main(void){
 
 ---
 
-# Pattern 10 <p align="right"><a href="#index">🔝 Back to Index</a></p>
+## Pattern 10 <p align="right"><a href="#index">🔝 Back to Index</a></p>
 
 
 
