@@ -372,7 +372,7 @@ int main(void){
 
 ---
 
-# Pattern 10 <p align="right"><a href="#index">🔝 Back to Index</a></p>
+# Pattern 10 <p align="right"> [🔝 Back to Index](#index) </p>
 
 
 
