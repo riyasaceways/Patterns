@@ -38,7 +38,6 @@ Patterns with code
 ---
 
 # Pattern 1
-
 <p align="right">
   <a href="#index">🔝 Back to Index</a>
 </p>
@@ -77,7 +76,10 @@ int main(void){
 </details>
 
 ---
-# Pattern 2 <p align="right"> [🔝 Back to Index](#index) </p>
+# Pattern 2
+<p align="right">
+  <a href="#index">🔝 Back to Index</a>
+</p>
 ```c
 50 
 45 40 
@@ -106,7 +108,10 @@ int main(void){
 
 ---
 
-# Pattern 3 <p align="right"> [🔝 Back to Index](#index) </p>
+# Pattern 3
+<p align="right">
+  <a href="#index">🔝 Back to Index</a>
+</p>
 ```c
 *       * 
 * *     * 
@@ -140,7 +145,10 @@ int main(void){
 
 ---
 
-# Pattern 4 <p align="right"> [🔝 Back to Index](#index) </p>
+# Pattern 4
+<p align="right">
+  <a href="#index">🔝 Back to Index</a>
+</p>
 
 ```c
 * * * * * 
@@ -174,7 +182,10 @@ int main(void){
 
 ---
 
-# Pattern 5 <p align="right"> [🔝 Back to Index](#index) </p>
+# Pattern 5
+<p align="right">
+  <a href="#index">🔝 Back to Index</a>
+</p>
 
 ```c
 * * 
@@ -218,7 +229,10 @@ int main(void){
 
 ---
 
-# Pattern 6 <p align="right"> [🔝 Back to Index](#index) </p>
+# Pattern 6
+<p align="right">
+  <a href="#index">🔝 Back to Index</a>
+</p>
 
 ```c
 * * * 
@@ -262,7 +276,10 @@ int i,j,k,n=3;
 
 </details>
 
-# Pattern 7 <p align="right"> [🔝 Back to Index](#index) </p>
+# Pattern 7
+<p align="right">
+  <a href="#index">🔝 Back to Index</a>
+</p>
 
 ```c
       *
@@ -300,7 +317,10 @@ int main(void){
 </details>
 
 ---
-# Pattern 8 <p align="right"> [🔝 Back to Index](#index) </p>
+# Pattern 8
+<p align="right">
+  <a href="#index">🔝 Back to Index</a>
+</p>
 
 ```c
 1 
@@ -334,7 +354,10 @@ int main(void){
 </details>
 
 ---
-# Pattern 9 <p align="right"> [🔝 Back to Index](#index) </p>
+# Pattern 9
+<p align="right">
+  <a href="#index">🔝 Back to Index</a>
+</p>
 
 ```c
           1 
@@ -376,8 +399,7 @@ int main(void){
 
 ---
 
-# Pattern 10 
-
+# Pattern 10
 <p align="right">
   <a href="#index">🔝 Back to Index</a>
 </p>
@@ -423,7 +445,10 @@ int main(void){
 ---
 
 
-# Pattern 11 <p align="right"> [🔝 Back to Index](#index) </p>
+# Pattern 11
+<p align="right">
+  <a href="#index">🔝 Back to Index</a>
+</p>
 
 ```c
 *                         * 
