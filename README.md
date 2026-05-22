@@ -882,7 +882,7 @@ int main(void) {
 
 ---
 
-## Pattern 
+## Pattern 22
 
 ```c
 *
@@ -899,7 +899,7 @@ int main(void) {
 * * * * * * 
 ```
 <details>
-<summary> 👉 Click to view the Code of Pattern  </summary>
+<summary> 👉 Click to view the Code of Pattern 22 </summary>
 
 ```c
 #include <stdio.h>
@@ -921,7 +921,7 @@ int i,j,n=3;
 
 ---
 
-## Pattern 
+## Pattern 23
 
 ```c
 *
@@ -940,7 +940,7 @@ int i,j,n=3;
 * * * 
 ```
 <details>
-<summary> 👉 Click to view the Code of Pattern  </summary>
+<summary> 👉 Click to view the Code of Pattern 23 </summary>
 
 ```c
 #include <stdio.h>
@@ -963,7 +963,7 @@ int main(void) {
 ---
 
 
-## Pattern 
+## Pattern 24
 
 
 ```c
@@ -977,7 +977,7 @@ int main(void) {
 
 <details>
 
-<summary> 👉 Click to view the Code of Pattern  </summary>
+<summary> 👉 Click to view the Code of Pattern 24 </summary>
 
 
 ```c
@@ -1000,7 +1000,7 @@ int main(void) {
 ---
 
 
-## Pattern 
+## Pattern 25
 
 
 ```c
@@ -1014,7 +1014,7 @@ int main(void) {
 
 <details>
 
-<summary> 👉 Click to view the Code of Pattern  </summary>
+<summary> 👉 Click to view the Code of Pattern 25 </summary>
 
 
 ```c
@@ -1039,7 +1039,7 @@ int main(void) {
 
 ---
 
-## Pattern 
+## Pattern 26
 
 ```c
 1 * * * * * * 1 
@@ -1048,7 +1048,7 @@ int main(void) {
 1 2 3 4 4 3 2 1 
 ```
 <details>
-<summary> 👉 Click to view the Code of Pattern  </summary>
+<summary> 👉 Click to view the Code of Pattern 26 </summary>
 
 ```c
 #include <stdio.h>
@@ -1073,7 +1073,7 @@ int main(void) {
 
 ---
 
-## Pattern 
+## Pattern 27
 
 ```c
 1 2 3 4 4 3 2 1 
@@ -1082,7 +1082,7 @@ int main(void) {
 1 * * * * * * 1 
 ```
 <details>
-<summary> 👉 Click to view the Code of Pattern  </summary>
+<summary> 👉 Click to view the Code of Pattern 27 </summary>
 
 ```c
 #include <stdio.h>
@@ -1107,7 +1107,7 @@ int main(void) {
 
 ---
 
-## Pattern 
+## Pattern 28
 
 ```c
 1 3 5 7 9 
@@ -1117,7 +1117,7 @@ int main(void) {
 9 
 ```
 <details>
-<summary> 👉 Click to view the Code of Pattern  </summary>
+<summary> 👉 Click to view the Code of Pattern 28 </summary>
 
 ```c
 #include <stdio.h>
@@ -1136,7 +1136,7 @@ int main(void) {
 
 ---
 
-## Pattern 
+## Pattern 29
 
 ```c
 * * * * * * * * * * * * * 
@@ -1154,7 +1154,7 @@ int main(void) {
 * 
 ```
 <details>
-<summary> 👉 Click to view the Code of Pattern  </summary>
+<summary> 👉 Click to view the Code of Pattern 29 </summary>
 
 ```c
 #include <stdio.h>
@@ -1180,7 +1180,7 @@ int i,j,n=7;
 
 ---
 
-## Pattern 
+## Pattern 30
 
 ```c
 *
@@ -1195,7 +1195,7 @@ int i,j,n=7;
 * * * * * * * * * 
 ```
 <details>
-<summary> 👉 Click to view the Code of Pattern  </summary>
+<summary> 👉 Click to view the Code of Pattern 30 </summary>
 
 ```c
 #include <stdio.h>
@@ -1223,7 +1223,7 @@ int main(void) {
 
 ---
 
-## Pattern 
+## Pattern 31
 
 
 ```c
@@ -1238,7 +1238,7 @@ int main(void) {
 
 <details>
 
-<summary> 👉 Click to view the Code of Pattern  </summary>
+<summary> 👉 Click to view the Code of Pattern 31 </summary>
 
 
 ```c
@@ -1259,23 +1259,6 @@ int main(void) {
 </details>
 
 ---
-
-## Pattern 
-
-```c
-
-```
-<details>
-<summary> 👉 Click to view the Code of Pattern  </summary>
-
-```c
-
-```
-</details>
-
-
-
-
 
 
 
