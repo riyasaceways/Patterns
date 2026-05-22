@@ -919,6 +919,362 @@ int i,j,n=3;
 ```
 </details>
 
+---
+
+## Pattern 
+
+```c
+*
+* * * 
+*
+* * * 
+* * * 
+*
+* * * 
+* * * 
+* * * 
+*
+* * * 
+* * * 
+* * * 
+* * * 
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int i,j,k,n=4;
+    for(i=1;i<=n;i++){
+        printf("*\n");
+        for(j=0;j<i;j++){
+            for(k=0;k<3;k++){
+                printf("* ");
+            }
+            printf("\n");
+        }
+    }
+}
+```
+</details>
+
+---
+
+
+## Pattern 
+
+
+```c
+
+0 1 0 1 0 1 
+1 0 1 0 1 
+0 1 0 1 
+1 0 1 
+0 1
+```
+
+<details>
+
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+
+```c
+
+#include <stdio.h>
+
+int main(void) {
+    int i,j,n=5;
+    for(i=0;i<n;i++){
+        for(j=i;j<=n;j++){
+            printf("%d ",j%2);
+        }
+        printf("\n");
+    }
+}
+```
+
+</details>
+
+---
+
+
+## Pattern 
+
+
+```c
+
+1 
+1 2 1 
+1 2 3 2 1 
+1 2 3 4 3 2 1 
+1 2 3 4 5 4 3 2 1 
+```
+
+<details>
+
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+
+```c
+
+#include <stdio.h>
+
+int main(void) {
+    int i,j,k,n=5;
+    for(i=1;i<=n;i++){
+        for(j=1;j<=i;j++){
+            printf("%d ",j);
+        }
+        for(j=i-1;j>0;j--){
+            printf("%d ",j);
+        }
+        printf("\n");
+    }
+}
+```
+
+</details>
+
+---
+
+## Pattern 
+
+```c
+1 * * * * * * 1 
+1 2 * * * * 2 1 
+1 2 3 * * 3 2 1 
+1 2 3 4 4 3 2 1 
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int i,j,n=4;
+    for(i=1;i<=n;i++){
+        for(j=1;j<=i;j++){
+            printf("%d ",j);
+        }
+        for(j=(n-i)*2;j>=1;j--){
+            printf("* ");
+        }
+        for(j=i;j>0;j--){
+            printf("%d ",j);
+        }
+        printf("\n");
+    }
+}
+```
+</details>
+
+---
+
+## Pattern 
+
+```c
+1 2 3 4 4 3 2 1 
+1 2 3 * * 3 2 1 
+1 2 * * * * 2 1 
+1 * * * * * * 1 
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int i,j,n=4;
+    for(i=0;i<n;i++){
+        for(j=1;j<=n-i;j++){
+            printf("%d ",j);
+        }
+        for(j=0;j<2*i;j++){
+            printf("* ");
+        }
+        for(j=n-i;j>0;j--){
+            printf("%d ",j);
+        }
+        printf("\n");
+    }
+}
+```
+</details>
+
+---
+
+## Pattern 
+
+```c
+1 3 5 7 9 
+3 5 7 9 
+5 7 9 
+7 9 
+9 
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int i,j,k,n=5;
+    for(i=1;i<=2*n;i+=2){
+        for(j=i;j<2*n;j+=2){
+            printf("%d ",j);
+        }
+        printf("\n");
+    }
+}
+```
+</details>
+
+---
+
+## Pattern 
+
+```c
+* * * * * * * * * * * * * 
+* * 
+* * * * * * * * * * * 
+* * 
+* * * * * * * * * 
+* * 
+* * * * * * * 
+* * 
+* * * * * 
+* * 
+* * * 
+* * 
+* 
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+```c
+#include <stdio.h>
+
+int main(void) {
+int i,j,n=7;
+    for(i=0;i<n;i++){
+        for(j=0;j<(n-i)*2-1;j++){
+            printf("* ");
+        }
+        printf("\n");
+        if(i==n-1){
+            break;
+        }
+        for(j=0;j<2;j++){
+            printf("* ");
+        }
+        printf("\n");
+    }
+}
+```
+</details>
+
+---
+
+## Pattern 
+
+```c
+*
+* 
+* * * 
+* * 
+* * 
+* * * * * * 
+* * * 
+* * * 
+* * * 
+* * * * * * * * * 
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int i,j,k,n=4;
+    for(i=1;i<n;i++){
+        if(i==1){
+            printf("*\n");
+        }
+        for(k=0;k<i;k++){
+            for(j=0;j<i;j++){
+                printf("* ");
+            }
+            printf("\n");
+        }
+        for(k=1;k<=3*i;k++){
+            printf("* ");
+        }
+        printf("\n");
+    }
+}
+```
+</details>
+
+---
+
+## Pattern 
+
+
+```c
+
+0 1 
+0 2 4 
+0 3 6 9 
+0 4 8 12 16 
+0 5 10 15 20 25 
+0 6 12 18 24 30 36 
+```
+
+<details>
+
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+
+```c
+
+#include <stdio.h>
+
+int main(void) {
+    int i,j,n=6;
+    for(i=1;i<=n;i++){
+        for(j=0;j<=i;j++){
+            printf("%d ",i*j);
+        }
+        printf("\n");
+    }
+}
+```
+
+</details>
+
+---
+
+## Pattern 
+
+```c
+
+```
+<details>
+<summary> 👉 Click to view the Code of Pattern  </summary>
+
+```c
+
+```
+</details>
+
+
+
 
 
 
