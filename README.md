@@ -80,6 +80,7 @@ int main(void){
 <p align="right">
   <a href="#index">🔝 Back to Index</a>
 </p>
+
 ```c
 50 
 45 40 
@@ -112,6 +113,7 @@ int main(void){
 <p align="right">
   <a href="#index">🔝 Back to Index</a>
 </p>
+
 ```c
 *       * 
 * *     * 
@@ -605,7 +607,9 @@ int main(void){
 ```
 
 ## Or
+
 ## Pattern 13 (Method 2)
+
 ```c
 #include <stdio.h>
 
@@ -754,12 +758,10 @@ int main(void){
 
 ---
 
-
 # Pattern 17
 <p align="right">
   <a href="#index">🔝 Back to Index</a>
 </p>
-
 
 ```c
 
@@ -775,9 +777,7 @@ int main(void){
 
 <summary> 👉 Click to view the Code of Pattern 17 </summary>
 
-
 ```c
-
 #include <stdio.h>
 int main(void){
     int i,j,n=6;
@@ -846,7 +846,6 @@ int main(void) {
   <a href="#index">🔝 Back to Index</a>
 </p>
 
-
 ```c
 
 * * * * * * * 
@@ -861,7 +860,6 @@ int main(void) {
 <details>
 
 <summary> 👉 Click to view the Code of Pattern 19 </summary>
-
 
 ```c
 #include <stdio.h>
@@ -882,9 +880,6 @@ int main(void) {
 </details>
 
 ---
-
-
-
 
 # Pattern 20
 <p align="right">
@@ -1042,12 +1037,10 @@ int main(void) {
 
 ---
 
-
 # Pattern 24
 <p align="right">
   <a href="#index">🔝 Back to Index</a>
 </p>
-
 
 ```c
 
@@ -1061,7 +1054,6 @@ int main(void) {
 <details>
 
 <summary> 👉 Click to view the Code of Pattern 24 </summary>
-
 
 ```c
 
@@ -1082,7 +1074,6 @@ int main(void) {
 
 ---
 
-
 # Pattern 25
 <p align="right">
   <a href="#index">🔝 Back to Index</a>
@@ -1101,7 +1092,6 @@ int main(void) {
 <details>
 
 <summary> 👉 Click to view the Code of Pattern 25 </summary>
-
 
 ```c
 
@@ -1344,7 +1334,6 @@ int main(void) {
 
 <summary> 👉 Click to view the Code of Pattern 31 </summary>
 
-
 ```c
 
 #include <stdio.h>
@@ -1363,11 +1352,6 @@ int main(void) {
 </details>
 
 ---
-
-
-
-
-
 
 [//]: # ()
 [//]: # (## Pattern )
