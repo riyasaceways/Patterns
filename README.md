@@ -102,7 +102,7 @@ int main(void){
 
 ---
 
-## Pattern 3
+## Pattern 3 <p align="right"> [🔝 Back to Index](#index) </p>
 ```c
 *       * 
 * *     * 
@@ -136,7 +136,7 @@ int main(void){
 
 ---
 
-## Pattern 4
+## Pattern 4 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 * * * * * 
@@ -170,7 +170,7 @@ int main(void){
 
 ---
 
-## Pattern 5
+## Pattern 5 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 * * 
@@ -214,7 +214,7 @@ int main(void){
 
 ---
 
-## Pattern 6
+## Pattern 6 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 * * * 
@@ -258,7 +258,7 @@ int i,j,k,n=3;
 
 </details>
 
-## Pattern 7
+## Pattern 7 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
       *
@@ -296,7 +296,7 @@ int main(void){
 </details>
 
 ---
-## Pattern 8
+## Pattern 8 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 1 
@@ -330,7 +330,7 @@ int main(void){
 </details>
 
 ---
-## Pattern 9
+## Pattern 9 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
           1 
@@ -415,7 +415,7 @@ int main(void){
 ---
 
 
-## Pattern 11
+## Pattern 11 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 *                         * 
@@ -463,7 +463,7 @@ int main(void){
 ---
 
 
-## Pattern 12
+## Pattern 12 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 1        1 
@@ -516,7 +516,7 @@ int main(void){
 
 ---
 
-## Pattern 13
+## Pattern 13 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
     *
@@ -608,7 +608,7 @@ int main(void) {
 
 ---
 
-## Pattern 14
+## Pattern 14 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 1 1 1 1 1 1 
@@ -640,7 +640,7 @@ int main(void){
 
 ---
 
-## Pattern 15
+## Pattern 15 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 A 
@@ -675,7 +675,7 @@ int main(void){
 
 ---
 
-## Pattern 16
+## Pattern 16 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
  1 2 3 4 5 
@@ -707,7 +707,7 @@ int main(void){
 ---
 
 
-## Pattern 17
+## Pattern 17 <p align="right"> [🔝 Back to Index](#index) </p>
 
 
 ```c
@@ -746,7 +746,7 @@ int main(void){
 
 ---
 
-## Pattern 18
+## Pattern 18 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
      * 
@@ -787,7 +787,7 @@ int main(void) {
 
 ---
 
-## Pattern 19
+## Pattern 19 <p align="right"> [🔝 Back to Index](#index) </p>
 
 
 ```c
@@ -829,7 +829,7 @@ int main(void) {
 
 
 
-## Pattern 20
+## Pattern 20 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 1 
@@ -861,7 +861,7 @@ int main(void) {
 
 ---
 
-## Pattern 21
+## Pattern 21 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 1 2 3 4 5 4 3 2 1 
@@ -893,7 +893,7 @@ int main(void) {
 
 ---
 
-## Pattern 22
+## Pattern 22 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 *
@@ -932,7 +932,7 @@ int i,j,n=3;
 
 ---
 
-## Pattern 23
+## Pattern 23 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 *
@@ -974,7 +974,7 @@ int main(void) {
 ---
 
 
-## Pattern 24
+## Pattern 24 <p align="right"> [🔝 Back to Index](#index) </p>
 
 
 ```c
@@ -1011,7 +1011,7 @@ int main(void) {
 ---
 
 
-## Pattern 25
+## Pattern 25 <p align="right"> [🔝 Back to Index](#index) </p>
 
 
 ```c
@@ -1050,7 +1050,7 @@ int main(void) {
 
 ---
 
-## Pattern 26
+## Pattern 26 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 1 * * * * * * 1 
@@ -1084,7 +1084,7 @@ int main(void) {
 
 ---
 
-## Pattern 27
+## Pattern 27 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 1 2 3 4 4 3 2 1 
@@ -1118,7 +1118,7 @@ int main(void) {
 
 ---
 
-## Pattern 28
+## Pattern 28 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 1 3 5 7 9 
@@ -1147,7 +1147,7 @@ int main(void) {
 
 ---
 
-## Pattern 29
+## Pattern 29 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 * * * * * * * * * * * * * 
@@ -1191,7 +1191,7 @@ int i,j,n=7;
 
 ---
 
-## Pattern 30
+## Pattern 30 <p align="right"> [🔝 Back to Index](#index) </p>
 
 ```c
 *
@@ -1234,7 +1234,7 @@ int main(void) {
 
 ---
 
-## Pattern 31
+## Pattern 31 <p align="right"> [🔝 Back to Index](#index) </p>
 
 
 ```c
