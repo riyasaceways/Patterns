@@ -372,7 +372,12 @@ int main(void){
 
 ---
 
-## Pattern 10 [🔝 Back to Index](#index)
+## Pattern 10 <p align="right"> [🔝 Back to Index](#index) </p>
+
+
+
+
+
 
 ```c
  * * * * * 
