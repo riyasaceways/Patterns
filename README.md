@@ -53,7 +53,7 @@ Patterns with code
 
 4|0  4|1  4|2  4|3  4|4
 ```
-<p>This Grid pattern to understand the cound of grid of </p>
+<p>This Grid pattern to understand how the grid works!</p>
 
 <details>
 
