@@ -43,6 +43,7 @@ Patterns with code
 
 # Pattern 1
 <p align="right">
+  <a href="https://onecompiler.com/c">🔝 Back to Index</a>
   <a href="#index">🔝 Back to Index</a>
 </p>
 
