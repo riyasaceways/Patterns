@@ -37,14 +37,14 @@ Patterns with code
 
 
 
-<p><h3><a href="https://onecompiler.com/c" target="_blank">👉 Click here for online compailer 👈</a></h3></p>
+[//]: # (<p><h3><a href="https://onecompiler.com/c" target="_blank">👉 Click here for online compailer 👈</a></h3></p>)
 
 ---
 
 # Pattern 1
 <p align="right">
   <a href="https://onecompiler.com/c">🖥 Click here for online compailer   </a>
-  <a href="#index">🔝 Back to Index</a>
+  <a href="#index"> 🔝 Back to Index</a>
 </p>
 
 ```c
