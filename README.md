@@ -45,23 +45,18 @@ Patterns with code
 
 
 <table width="100%">
-<tr>
-<td align="left">
-
-<a href="https://onecompiler.com/c">
-🖥 Click here for online compiler
-</a>
-
-</td>
-
-<td align="right">
-
-<a href="#index">
-🔝 Back to Index
-</a>
-
-</td>
-</tr>
+    <tr>
+        <td align="left" width="50%">
+        <a href="https://onecompiler.com/c">
+        🖥 Click here for online compiler
+        </a>
+        </td>
+        <td align="right" width="50%">
+        <a href="#index">
+        🔝 Back to Index
+        </a>
+        </td>
+    </tr>
 </table>
 
 ```c
