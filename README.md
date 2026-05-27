@@ -35,6 +35,10 @@ Patterns with code
 - [Pattern 30 - Expanding Star Blocks](#pattern-30)
 - [Pattern 31 - Multiplication Series Pattern](#pattern-31)
 
+
+<p><a href="https://onecompiler.com/c"><h2>👉Click here for online compailer</h2></a></p>
+
+
 ---
 
 # Pattern 1
@@ -72,10 +76,10 @@ int main(void){
     }
 }
 ```
+---
 
 </details>
 
----
 # Pattern 2
 <p align="right">
   <a href="#index">🔝 Back to Index</a>
