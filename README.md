@@ -35,14 +35,9 @@ Patterns with code
 - [Pattern 30 - Expanding Star Blocks](#pattern-30)
 - [Pattern 31 - Multiplication Series Pattern](#pattern-31)
 
-
-
-[//]: # (<p><h3><a href="https://onecompiler.com/c" target="_blank">👉 Click here for online compailer 👈</a></h3></p>)
-
 ---
 
 # Pattern 1
-
 
 <table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
@@ -81,9 +76,8 @@ int main(void){
 </details>
 
 # Pattern 2
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 50 
@@ -114,9 +108,8 @@ int main(void){
 ---
 
 # Pattern 3
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 *       * 
@@ -152,9 +145,8 @@ int main(void){
 ---
 
 # Pattern 4
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 * * * * * 
@@ -189,9 +181,8 @@ int main(void){
 ---
 
 # Pattern 5
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 * * 
@@ -236,9 +227,8 @@ int main(void){
 ---
 
 # Pattern 6
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 * * * 
@@ -283,9 +273,8 @@ int i,j,k,n=3;
 </details>
 
 # Pattern 7
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
       *
@@ -324,9 +313,8 @@ int main(void){
 
 ---
 # Pattern 8
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 1 
@@ -361,9 +349,8 @@ int main(void){
 
 ---
 # Pattern 9
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
           1 
@@ -406,9 +393,8 @@ int main(void){
 ---
 
 # Pattern 10
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
  * * * * * 
@@ -452,9 +438,8 @@ int main(void){
 
 
 # Pattern 11
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 *                         * 
@@ -503,9 +488,8 @@ int main(void){
 
 
 # Pattern 12
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 1        1 
@@ -559,9 +543,8 @@ int main(void){
 ---
 
 # Pattern 13
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
     *
@@ -656,9 +639,8 @@ int main(void) {
 ---
 
 # Pattern 14
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 1 1 1 1 1 1 
@@ -691,9 +673,8 @@ int main(void){
 ---
 
 # Pattern 15
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 A 
@@ -729,9 +710,8 @@ int main(void){
 ---
 
 # Pattern 16
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
  1 2 3 4 5 
@@ -763,9 +743,8 @@ int main(void){
 ---
 
 # Pattern 17
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 
@@ -802,9 +781,8 @@ int main(void){
 ---
 
 # Pattern 18
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
      * 
@@ -846,9 +824,8 @@ int main(void) {
 ---
 
 # Pattern 19
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 
@@ -886,9 +863,8 @@ int main(void) {
 ---
 
 # Pattern 20
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 1 
@@ -921,9 +897,8 @@ int main(void) {
 ---
 
 # Pattern 21
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 1 2 3 4 5 4 3 2 1 
@@ -956,9 +931,8 @@ int main(void) {
 ---
 
 # Pattern 22
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 *
@@ -998,9 +972,8 @@ int i,j,n=3;
 ---
 
 # Pattern 23
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 *
@@ -1042,9 +1015,8 @@ int main(void) {
 ---
 
 # Pattern 24
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 
@@ -1079,9 +1051,8 @@ int main(void) {
 ---
 
 # Pattern 25
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 
 ```c
@@ -1120,9 +1091,8 @@ int main(void) {
 ---
 
 # Pattern 26
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 1 * * * * * * 1 
@@ -1157,9 +1127,8 @@ int main(void) {
 ---
 
 # Pattern 27
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 1 2 3 4 4 3 2 1 
@@ -1194,9 +1163,8 @@ int main(void) {
 ---
 
 # Pattern 28
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 1 3 5 7 9 
@@ -1226,9 +1194,8 @@ int main(void) {
 ---
 
 # Pattern 29
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 * * * * * * * * * * * * * 
@@ -1273,9 +1240,8 @@ int i,j,n=7;
 ---
 
 # Pattern 30
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 *
@@ -1319,9 +1285,8 @@ int main(void) {
 ---
 
 # Pattern 31
-<p align="right">
-  <a href="#index">🔝 Back to Index</a>
-</p>
+
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 
 ```c
@@ -1359,6 +1324,8 @@ int main(void) {
 
 [//]: # ()
 [//]: # (## Pattern )
+
+[//]: # (<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>)
 
 [//]: # ()
 [//]: # (```c)
