@@ -37,8 +37,7 @@ Patterns with code
 
 
 
-<p><h4><a href="https://onecompiler.com/c" target="_blank">👉Click here for online compailer</a></h4></p>
-
+<p align="center"><h4><a href="https://onecompiler.com/c" target="_blank">👉Click here for online compailer</a></h4></p>
 
 ---
 
