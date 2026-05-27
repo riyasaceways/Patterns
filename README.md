@@ -45,10 +45,11 @@ Patterns with code
 
 
 <p>
-  <a href="https://onecompiler.com/c">🖥 Click here for online compailer   |</a>
-  <a href="#index">|  🔝 Back to Index</a>
+  <a href="#index">|  🔝 Back to Index|</a>
 </p>
-<p align="right"><a href="https://onecompiler.com/c">🖥 Click here for online compailer   |</a><a href="#index">|  🔝 Back to Index</a></p>
+<p align="right">
+<a href="#index">|  🔝 Back to Index|</a>
+</p>
 
 ```c
 0|0  0|1  0|2  0|3  0|4
