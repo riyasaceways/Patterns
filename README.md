@@ -44,20 +44,7 @@ Patterns with code
 # Pattern 1
 
 
-<table width="100%">
-    <tr>
-        <td align="left">
-        <a href="https://onecompiler.com/c">
-        🖥 Click here for online compiler
-        </a>
-        </td>
-        <td align="right">
-        <a href="#index">
-        🔝 Back to Index
-        </a>
-        </td>
-    </tr>
-</table>
+<table width="100%"><tr><td align="left"><a href="https://onecompiler.com/c">🖥 Click here for online compiler</a></td><td align="right"><a href="#index">🔝 Back to Index</a></td></tr></table>
 
 ```c
 0|0  0|1  0|2  0|3  0|4
