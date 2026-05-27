@@ -36,6 +36,7 @@ Patterns with code
 - [Pattern 31 - Multiplication Series Pattern](#pattern-31)
 
 
+
 <p><h4><a href="https://onecompiler.com/c">👉Click here for online compailer</a></h4></p>
 
 
