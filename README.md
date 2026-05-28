@@ -369,21 +369,21 @@ int main(void){
 ```c
 #include<stdio.h>
 
-int main(void){
-    int i, j, k, row=4;                 // See the for loops Count below
+int main(void){                         // See the "for loops" Counting in the comment below...
+    int i, j, k, row=4;                 //
     for( i=-row; i<=row; i++ ){         // -4  -3  -2  -1  0  1  2  3  4    Outer loop
         
-        if(i<0)
-            k=-i;else
+        if(i<0)                         // Convert negetive value to positive (-4 to 4)
+            k=-i;else                   // Convert negative values to positive (-4 to 4), Two minus signs become plus, i = -row means i has -4, Then k = -i becomes k = -(-4), So --4 becomes +4.
             k=i;
+                                        
+        for( j=0; j<=k; j++ )           // Printing Spaces      Inner loop 1
+            printf("  ");               // 4  3  2  1  0  1  2  3  4
+                                        
+        for( j=1; j<=(row-k)*2+1 ;j++ ) // Printing Numbers     Inner loop 2
+            printf("%d ",j);            // 1  3  5  7  9  7  5  3  1   
         
-        for( j=0; j<=k; j++ )           // 4  3  2  1  0  1  2  3  4    Inner loop 1
-            printf("  ");
-        
-        for( j=1; j<=(row-k)*2+1 ;j++ ) /// 1  3  5  7  9  7  5  3  1   Inner loop 2
-            printf("%d ",j);
-        
-        printf("\n");
+        printf("\n");                   // Just new line only after Inner loop 2 
     }
 }
 ```
