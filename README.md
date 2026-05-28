@@ -370,17 +370,17 @@ int main(void){
 #include<stdio.h>
 
 int main(void){
-    int i, j, k, row=4;
-    for( i=-row; i<=row; i++ ){
+    int i, j, k, row=4;                 // See the for loops Count below
+    for( i=-row; i<=row; i++ ){         // -4  -3  -2  -1  0  1  2  3  4    Outer loop
         
         if(i<0)
             k=-i;else
             k=i;
         
-        for( j=0; j<k+1; j++ )
+        for( j=0; j<=k; j++ )           // 4  3  2  1  0  1  2  3  4    Inner loop 1
             printf("  ");
         
-        for( j=1; j<=(row-k)*2+1 ;j++ )
+        for( j=1; j<=(row-k)*2+1 ;j++ ) /// 1  3  5  7  9  7  5  3  1   Inner loop 2
             printf("%d ",j);
         
         printf("\n");
