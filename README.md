@@ -370,18 +370,18 @@ int main(void){
 #include<stdio.h>
 
 int main(void){
-    int i,j,k,n=4,f;
-    for(i=-n;i<=n;i++){
+    int i, j, k, row=4;
+    for( i=-row; i<=row; i++ ){
         
-        if(i<0) 
-        k=-i;else
-        k=i;
+        if(i<0)
+            k=-i;else
+            k=i;
         
-        for(j=0;j<k+1;j++)
+        for( j=0; j<k+1; j++ )
             printf("  ");
         
-        for(j=0,f=1;j<(n-k)*2+1;f++,j++)
-            printf("%d ",f);
+        for( j=1; j<=(row-k)*2+1 ;j++ )
+            printf("%d ",j);
         
         printf("\n");
     }
